@@ -1,4 +1,7 @@
 kill.me
 =======
 
-Codigo y documentacion del proyecto kill.me  de Ana Maria Montenegro y Camilo Martinez
+Código y documentación del proyecto kill.me  de Ana Maria Montenegro y Camilo Martínez
+
+http://montenegrojaramillo.com
+http://decolector.net
